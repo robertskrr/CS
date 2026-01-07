@@ -1,0 +1,14 @@
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+c:\Users\rober\Desktop\ROBERT\CURSOS\02_C#\C#_Principiantes\01_introduccion\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll
